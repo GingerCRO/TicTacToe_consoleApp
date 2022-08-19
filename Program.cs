@@ -1,7 +1,7 @@
 ﻿/*
 
     Tic Tac Toe game written by GingerCRO 
-    as a console app in the C# language 
+    as a console app in the C# language. 
 
     Visit my projects: https://github.com/GingerCRO
 
